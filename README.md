@@ -1,8 +1,8 @@
-﻿# Smart Sleep Quality Monitor
+﻿# Wearable Sleep Quality Monitor
 
 ![prototype](media/prototype.jpg)
 
-Perfboard ambient sleep tracker showing Restless / Arousal / REM / Recovery scores on OLED with optional audio cues.
+Wearable-oriented sleep quality monitor (compact battery-powered sensing prototype) showing Restless / Arousal / REM / Recovery scores on OLED with optional audio cues.
 
 **Build window:** 3 Aug â€“ 2 Sep 2026 (portfolio documentation)
 
